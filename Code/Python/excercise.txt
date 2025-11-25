@@ -1,0 +1,5 @@
+https://www.coursera.org/learn/programming-in-python/supplement/o9U5O/intro-to-big-o-notation
+
+https://dev.to/sarah_chima/the-big-o-notation-an-introduction-34f7
+
+https://www.thetechplatform.com/post/different-types-of-algorithms-in-data-structure
